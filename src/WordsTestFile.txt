@@ -1,0 +1,8 @@
+Alex
+Apple
+Pineapple
+Language
+Cherry
+Bearcat
+CPU
+GPU
